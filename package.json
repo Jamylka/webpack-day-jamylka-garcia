@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jamylka/webpack-day-jamylka-garcia/issues"
   },
-  "homepage": "https://github.com/Jamylka/webpack-day-jamylka-garcia#readme"
+  "homepage": "https://github.com/Jamylka/webpack-day-jamylka-garcia#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
